@@ -1,0 +1,16 @@
+__SETTINGS__(if editing, make sure you don't add or removes lines. IMPORTANT!!
+FFMPEG-PATH:
+D:\FFmpeg\bin\ffmpeg.exe
+INPUT-PATH
+D:\Recordings\Raw
+OUTPUT-PATH
+D:\Recordings\Processed
+SOURCE-FILE-ACTION
+2
+SOURCE-FILE-PATH
+
+AUDIO_TRACKS
+2
+__SUFFIXES__
+_DESKTOP
+_HALP
