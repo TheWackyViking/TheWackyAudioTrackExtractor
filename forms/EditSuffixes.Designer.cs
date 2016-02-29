@@ -1,4 +1,4 @@
-﻿namespace MP4Extractor_Forms
+﻿namespace TheWackyAudioTrackExtractor
 {
     partial class EditSuffixes
     {

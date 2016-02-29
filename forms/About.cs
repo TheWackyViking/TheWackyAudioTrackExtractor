@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MP4Extractor_Forms.forms
+namespace TheWackyAudioTrackExtractor.forms
 {
     partial class About : Form
     {

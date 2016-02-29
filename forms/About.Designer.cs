@@ -1,4 +1,4 @@
-﻿namespace MP4Extractor_Forms.forms
+﻿namespace TheWackyAudioTrackExtractor.forms
 {
     partial class About
     {

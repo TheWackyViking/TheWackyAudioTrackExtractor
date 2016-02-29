@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MP4Extractor_Forms
+namespace TheWackyAudioTrackExtractor
 {
     
     public partial class Settings : Form

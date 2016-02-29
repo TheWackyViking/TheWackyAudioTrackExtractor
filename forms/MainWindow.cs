@@ -1,5 +1,5 @@
 ﻿using AudioTrackExtractorLibs;
-using MP4Extractor_Forms.forms;
+using TheWackyAudioTrackExtractor.forms;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -12,7 +12,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MP4Extractor_Forms
+namespace TheWackyAudioTrackExtractor
 {
     public partial class MainWindow : Form
     {
