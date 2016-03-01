@@ -24,14 +24,27 @@ To start configuring settings, click the "Settings" button in the menu up top in
 
 Here is a write-up of what each bit in the "settings"-dialog does:
 "Number of audio tracks" - The textbox below this label should contain a number only. The number should reflect how many audio tracks you wish to extract from your recorded video files.
+
 "Edit suffixes" - This button will let you edit the suffixes for your extracted audio files. Just click on the suffix-column for the audio track you want to name, and start typing! The suffix will be added to each audio file, and if set up correctly, identify the audio track. I use one audio track for DESKTOP, VOICE-CALL, MUSIC, and MIC which will then automatically get the suffix added to the end of the filename, respectivelly. Makes it easier to add audio when editing video :)
+
 "FFMPEG.exe" - IMPORTANT: This should be the path and filename for your FFMPEG.exe file. You can download the neccessary files from their website(https://www.ffmpeg.org/download.html). The ffmpeg.exe file should be located in the folder you downloaded/installed it too, in the "bin" sub-directory.
+
 "path to recordings folder" - This is the folder in which you keep the raw video file you want to extract audio tracks from. The software will extract audio tracks from all the files in this folder when you click the start-button. Great for managing many files at once!
+
 "path to output folder" - This is the folder the software will put the extracted audio tracks. The program will make a sub-directory in this folder with the current file's name and put the extracted audio in there.
+
 "delete original" - Enabling this option will delete the original video file after the extraction process is done
+
 "move original" - Enabling this option will move the original video file to the folder specified in "move to this folder" after the extraction process is done. 
+
 "keep original" will move the original video file to the same folder as the extracted audio tracks
 
 After you have gone through all of these settings, click save.
 Restart the software and you are ready to bulk-extract audio tracks from your raw video footage!
+
+#Features
+
+*Saving/Loading - The program saves and loads the configuration from a single text-file. Makes it easier to keep multiple versions of configuration for different types of extraction-jobs
+*One-click-extraction - After configuring the software you will be able to extract multiple audio tracks from multiple files, as the program will try to extract the same amount of tracks from each video-file in the input-folder
+*Suffixes - After extraction, the application will add a customizable suffix to each audio track extracted. This makes adding the audio to a video editing project much simpler. 
 
