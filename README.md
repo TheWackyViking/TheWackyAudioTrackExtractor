@@ -13,7 +13,7 @@ There will be, at all times, two different exe-files you can download from this 
 Clicking either of those links will download the version you want.
 
 ##2) Install
-When you have downloaded the file, the software is actually already installed! I will, however, suggest you move it to a folder of you choosing, for convinience. I recommend putting it in your "Recordings" directory. I will also recommand making these sub-directories in your "Recordings" folder; Raw and Processed
+When you have downloaded the file, the software is actually already installed! I will, however, suggest you move it to a folder of you choosing, for convinience. I recommend putting it in your "Recordings" directory. I will also recommend making these sub-directories in your "Recordings" folder; Raw and Processed
 
 Record your footage straigt to the "Raw" folder in your "Recordings" directory. Then configure the software to process the files in your "Raw" folder and output the audio tracks to your "Processed" folder. 
 
