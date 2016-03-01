@@ -44,7 +44,7 @@ Restart the software and you are ready to bulk-extract audio tracks from your ra
 
 #Features
 
-*Saving/Loading - The program saves and loads the configuration from a single text-file. Makes it easier to keep multiple versions of configuration for different types of extraction-jobs
-*One-click-extraction - After configuring the software you will be able to extract multiple audio tracks from multiple files, as the program will try to extract the same amount of tracks from each video-file in the input-folder
-*Suffixes - After extraction, the application will add a customizable suffix to each audio track extracted. This makes adding the audio to a video editing project much simpler. 
+- Saving/Loading - The program saves and loads the configuration from a single text-file. Makes it easier to keep multiple versions of configuration for different types of extraction-jobs
+- One-click-extraction - After configuring the software you will be able to extract multiple audio tracks from multiple files, as the program will try to extract the same amount of tracks from each video-file in the input-folder
+- Suffixes - After extraction, the application will add a customizable suffix to each audio track extracted. This makes adding the audio to a video editing project much simpler. 
 
