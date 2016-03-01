@@ -1,4 +1,4 @@
-# TheWackyAudioTrackExtractor
+# The Wacky Audio Track Extractor
 This is a simple program that will enable you to extract multiple audio tracks from multiple video files with one simple click!
 This readme will go over how to install and use the latest version of the software. There will be no pictures, because I have no idea how to add that to the readme, and I'm too lazy to google it.
 
